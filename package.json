@@ -1,0 +1,24 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "Working through the tutorial series on Node.js by [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyarensman/node-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyarensman/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/andyarensman/node-crash-course#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  }
+}
